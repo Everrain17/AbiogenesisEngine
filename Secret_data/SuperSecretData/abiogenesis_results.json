@@ -1,0 +1,503 @@
+{
+  "LastActiveSeed": 808481980,
+  "TotalTicksAccumulated": 2651,
+  "TotalRazumCount": 16,
+  "EvolvedLandSpecies": [
+    {
+      "SpeciesId": "RAZUM_SPECIES_01",
+      "TotalCellMass": 370,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 2220,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.32,
+        "EpithelialArmor": 0.02,
+        "NervousSystem": 0.11,
+        "LocomotorSystem": 0.82
+      },
+      "OrganismGenome": {
+        "Speed": 0.8324778,
+        "SenseRadius": 0.46597475,
+        "Metabolism": 0.17049487,
+        "DivisionThreshold": 0.43128008,
+        "MutationRate": 0.12722075,
+        "MergeAffinity": 0.8082326,
+        "CommunicationRadius": 0.5492542,
+        "LightDependency": 0.4505269,
+        "ChemicalAffinity": 0.10236878,
+        "OrganicAffinity": 0.31719232,
+        "PredatoryDrive": 0.6625778,
+        "RegenerationRate": 0.889418,
+        "EnvironmentResistance": 0.3386558,
+        "CellDifferentiation": 0.3207839,
+        "Thermotolerance": 0.37093166,
+        "OptimalTemperature": 0.32452807
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_02",
+      "TotalCellMass": 451,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 2280,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.07,
+        "EpithelialArmor": 0.14,
+        "NervousSystem": 0.43,
+        "LocomotorSystem": 0
+      },
+      "OrganismGenome": {
+        "Speed": 0.28041252,
+        "SenseRadius": 0.6355947,
+        "Metabolism": 0.08620055,
+        "DivisionThreshold": 0.3983726,
+        "MutationRate": 0.11839289,
+        "MergeAffinity": 0.88561857,
+        "CommunicationRadius": 0.7512769,
+        "LightDependency": 0.12734835,
+        "ChemicalAffinity": 0.09501745,
+        "OrganicAffinity": 0.06793738,
+        "PredatoryDrive": 0.48100176,
+        "RegenerationRate": 0.7580627,
+        "EnvironmentResistance": 0.50084615,
+        "CellDifferentiation": 0.6537921,
+        "Thermotolerance": 0.109488264,
+        "OptimalTemperature": 0.8292902
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_03",
+      "TotalCellMass": 396,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 9900,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.74,
+        "EpithelialArmor": 0.97,
+        "NervousSystem": 0.98,
+        "LocomotorSystem": 0.99
+      },
+      "OrganismGenome": {
+        "Speed": 0.83218074,
+        "SenseRadius": 0.88406044,
+        "Metabolism": 0.05004221,
+        "DivisionThreshold": 0.9105643,
+        "MutationRate": 0.122365035,
+        "MergeAffinity": 0.015724514,
+        "CommunicationRadius": 0.8177799,
+        "LightDependency": 0.83594084,
+        "ChemicalAffinity": 0.38366187,
+        "OrganicAffinity": 0.62851214,
+        "PredatoryDrive": 0.9471458,
+        "RegenerationRate": 0.5118088,
+        "EnvironmentResistance": 0.93563265,
+        "CellDifferentiation": 0.11900577,
+        "Thermotolerance": 0.56607187,
+        "OptimalTemperature": 0.38651735
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_04",
+      "TotalCellMass": 434,
+      "OrganisedModulesCount": 7,
+      "ExitTick": 12220,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.1,
+        "EpithelialArmor": 0.06,
+        "NervousSystem": 0.18,
+        "LocomotorSystem": 0.01
+      },
+      "OrganismGenome": {
+        "Speed": 0.33769256,
+        "SenseRadius": 0.49529395,
+        "Metabolism": 0.12336512,
+        "DivisionThreshold": 0.36940104,
+        "MutationRate": 0.1505742,
+        "MergeAffinity": 0.7800799,
+        "CommunicationRadius": 0.51183766,
+        "LightDependency": 0.42086256,
+        "ChemicalAffinity": 0.07146219,
+        "OrganicAffinity": 0.097835936,
+        "PredatoryDrive": 0.52488226,
+        "RegenerationRate": 0.654956,
+        "EnvironmentResistance": 0.3430534,
+        "CellDifferentiation": 0.62392896,
+        "Thermotolerance": 0.35545945,
+        "OptimalTemperature": 0.5567967
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_05",
+      "TotalCellMass": 406,
+      "OrganisedModulesCount": 7,
+      "ExitTick": 19040,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.12,
+        "EpithelialArmor": 0.97,
+        "NervousSystem": 0.33,
+        "LocomotorSystem": 0.05
+      },
+      "OrganismGenome": {
+        "Speed": 0.35316288,
+        "SenseRadius": 0.56326336,
+        "Metabolism": 0.5233686,
+        "DivisionThreshold": 0.85259753,
+        "MutationRate": 0.1364036,
+        "MergeAffinity": 0.039373193,
+        "CommunicationRadius": 0.5095464,
+        "LightDependency": 0.14291318,
+        "ChemicalAffinity": 0.108738154,
+        "OrganicAffinity": 0.11684848,
+        "PredatoryDrive": 0.7915221,
+        "RegenerationRate": 0.3018258,
+        "EnvironmentResistance": 0.9029999,
+        "CellDifferentiation": 0.6625829,
+        "Thermotolerance": 0.79763335,
+        "OptimalTemperature": 0.5764764
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_06",
+      "TotalCellMass": 473,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 25680,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.81,
+        "EpithelialArmor": 0.96,
+        "NervousSystem": 0.45,
+        "LocomotorSystem": 0.02
+      },
+      "OrganismGenome": {
+        "Speed": 0.1583267,
+        "SenseRadius": 0.61517346,
+        "Metabolism": 0.655151,
+        "DivisionThreshold": 0.45916933,
+        "MutationRate": 0.10494809,
+        "MergeAffinity": 0.0474615,
+        "CommunicationRadius": 0.44550377,
+        "LightDependency": 0.05201419,
+        "ChemicalAffinity": 0.6207585,
+        "OrganicAffinity": 0.13149747,
+        "PredatoryDrive": 0.9188294,
+        "RegenerationRate": 0.94321823,
+        "EnvironmentResistance": 0.94155186,
+        "CellDifferentiation": 0.08940251,
+        "Thermotolerance": 0.6431661,
+        "OptimalTemperature": 0.71327066
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_07",
+      "TotalCellMass": 398,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 29860,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.41,
+        "EpithelialArmor": 1,
+        "NervousSystem": 0.95,
+        "LocomotorSystem": 0
+      },
+      "OrganismGenome": {
+        "Speed": 0.1503315,
+        "SenseRadius": 0.7335289,
+        "Metabolism": 0.09453911,
+        "DivisionThreshold": 0.5575477,
+        "MutationRate": 0.036492933,
+        "MergeAffinity": 0.68175983,
+        "CommunicationRadius": 0.10055842,
+        "LightDependency": 0.07390025,
+        "ChemicalAffinity": 0.20846757,
+        "OrganicAffinity": 0.40667686,
+        "PredatoryDrive": 0.58089036,
+        "RegenerationRate": 0.1615787,
+        "EnvironmentResistance": 0.9199718,
+        "CellDifferentiation": 0.4616663,
+        "Thermotolerance": 0.13234861,
+        "OptimalTemperature": 0.54643387
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_08",
+      "TotalCellMass": 468,
+      "OrganisedModulesCount": 7,
+      "ExitTick": 33760,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.4,
+        "EpithelialArmor": 0,
+        "NervousSystem": 0.95,
+        "LocomotorSystem": 0.97
+      },
+      "OrganismGenome": {
+        "Speed": 0.7593548,
+        "SenseRadius": 0.77686185,
+        "Metabolism": 0.09408026,
+        "DivisionThreshold": 0.46737072,
+        "MutationRate": 0.05554485,
+        "MergeAffinity": 0.65439916,
+        "CommunicationRadius": 0.6835533,
+        "LightDependency": 0.27711928,
+        "ChemicalAffinity": 0.16457734,
+        "OrganicAffinity": 0.38005072,
+        "PredatoryDrive": 0.75650716,
+        "RegenerationRate": 0.66121596,
+        "EnvironmentResistance": 0.11160955,
+        "CellDifferentiation": 0.34966236,
+        "Thermotolerance": 0.61674595,
+        "OptimalTemperature": 0.44417304
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_09",
+      "TotalCellMass": 349,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 69060,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.74,
+        "EpithelialArmor": 0,
+        "NervousSystem": 0.89,
+        "LocomotorSystem": 0
+      },
+      "OrganismGenome": {
+        "Speed": 0.3195296,
+        "SenseRadius": 0.68979836,
+        "Metabolism": 0.60335815,
+        "DivisionThreshold": 0.43147603,
+        "MutationRate": 0.05595142,
+        "MergeAffinity": 0.75446326,
+        "CommunicationRadius": 0.23689243,
+        "LightDependency": 0.7368864,
+        "ChemicalAffinity": 0.11182144,
+        "OrganicAffinity": 0.74065876,
+        "PredatoryDrive": 0.33995163,
+        "RegenerationRate": 0.52158856,
+        "EnvironmentResistance": 0.19734034,
+        "CellDifferentiation": 0.4807395,
+        "Thermotolerance": 0.6218107,
+        "OptimalTemperature": 0.7279511
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_10",
+      "TotalCellMass": 531,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 70640,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.17,
+        "EpithelialArmor": 0.27,
+        "NervousSystem": 0.29,
+        "LocomotorSystem": 0.84
+      },
+      "OrganismGenome": {
+        "Speed": 0.75092524,
+        "SenseRadius": 0.56866735,
+        "Metabolism": 0.1143278,
+        "DivisionThreshold": 0.4209222,
+        "MutationRate": 0.11515691,
+        "MergeAffinity": 0.212847,
+        "CommunicationRadius": 0.67086774,
+        "LightDependency": 0.57658905,
+        "ChemicalAffinity": 0.09664418,
+        "OrganicAffinity": 0.16799068,
+        "PredatoryDrive": 0.75819707,
+        "RegenerationRate": 0.65619534,
+        "EnvironmentResistance": 0.4622768,
+        "CellDifferentiation": 0.28538495,
+        "Thermotolerance": 0.1654021,
+        "OptimalTemperature": 0.31731793
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_11",
+      "TotalCellMass": 392,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 74400,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.42,
+        "EpithelialArmor": 0.12,
+        "NervousSystem": 0.62,
+        "LocomotorSystem": 0.27
+      },
+      "OrganismGenome": {
+        "Speed": 0.5047758,
+        "SenseRadius": 0.663178,
+        "Metabolism": 0.41641334,
+        "DivisionThreshold": 0.90673465,
+        "MutationRate": 0.11132048,
+        "MergeAffinity": 0.041090738,
+        "CommunicationRadius": 0.47492892,
+        "LightDependency": 0.68779355,
+        "ChemicalAffinity": 0.4185987,
+        "OrganicAffinity": 0.36112088,
+        "PredatoryDrive": 0.882012,
+        "RegenerationRate": 0.43831757,
+        "EnvironmentResistance": 0.49377784,
+        "CellDifferentiation": 0.9373422,
+        "Thermotolerance": 0.89866203,
+        "OptimalTemperature": 0.15805908
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_12",
+      "TotalCellMass": 374,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 79800,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.33,
+        "EpithelialArmor": 0.35,
+        "NervousSystem": 0.59,
+        "LocomotorSystem": 0.98
+      },
+      "OrganismGenome": {
+        "Speed": 0.924521,
+        "SenseRadius": 0.6577022,
+        "Metabolism": 0.16901235,
+        "DivisionThreshold": 0.81955236,
+        "MutationRate": 0.10174771,
+        "MergeAffinity": 0.029905729,
+        "CommunicationRadius": 0.52029246,
+        "LightDependency": 0.6644307,
+        "ChemicalAffinity": 0.22626354,
+        "OrganicAffinity": 0.31792358,
+        "PredatoryDrive": 0.93733555,
+        "RegenerationRate": 0.40353882,
+        "EnvironmentResistance": 0.6292832,
+        "CellDifferentiation": 0.14948653,
+        "Thermotolerance": 0.5362962,
+        "OptimalTemperature": 0.80115336
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_13",
+      "TotalCellMass": 342,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 91860,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.33,
+        "EpithelialArmor": 0.06,
+        "NervousSystem": 0.16,
+        "LocomotorSystem": 0.93
+      },
+      "OrganismGenome": {
+        "Speed": 0.8237742,
+        "SenseRadius": 0.6103797,
+        "Metabolism": 0.37384328,
+        "DivisionThreshold": 0.5619089,
+        "MutationRate": 0.027427513,
+        "MergeAffinity": 0.70992595,
+        "CommunicationRadius": 0.37359005,
+        "LightDependency": 0.18493761,
+        "ChemicalAffinity": 0.1754579,
+        "OrganicAffinity": 0.32802066,
+        "PredatoryDrive": 0.48647803,
+        "RegenerationRate": 0.3160117,
+        "EnvironmentResistance": 0.5044076,
+        "CellDifferentiation": 0.17957005,
+        "Thermotolerance": 0.41559604,
+        "OptimalTemperature": 0.37666792
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_14",
+      "TotalCellMass": 489,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 97720,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.22,
+        "EpithelialArmor": 0.85,
+        "NervousSystem": 0.14,
+        "LocomotorSystem": 0.02
+      },
+      "OrganismGenome": {
+        "Speed": 0.33290017,
+        "SenseRadius": 0.34739134,
+        "Metabolism": 0.59383494,
+        "DivisionThreshold": 0.40465263,
+        "MutationRate": 0.065078475,
+        "MergeAffinity": 0.9031409,
+        "CommunicationRadius": 0.73947626,
+        "LightDependency": 0.11356172,
+        "ChemicalAffinity": 0.081911996,
+        "OrganicAffinity": 0.22192602,
+        "PredatoryDrive": 0.7388565,
+        "RegenerationRate": 0.5094229,
+        "EnvironmentResistance": 0.7730923,
+        "CellDifferentiation": 0.37489387,
+        "Thermotolerance": 0.36227995,
+        "OptimalTemperature": 0.395633
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_15",
+      "TotalCellMass": 535,
+      "OrganisedModulesCount": 9,
+      "ExitTick": 103300,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.51,
+        "EpithelialArmor": 0.01,
+        "NervousSystem": 0.54,
+        "LocomotorSystem": 0.64
+      },
+      "OrganismGenome": {
+        "Speed": 0.66858375,
+        "SenseRadius": 0.6321442,
+        "Metabolism": 0.106337234,
+        "DivisionThreshold": 0.42085525,
+        "MutationRate": 0.090014756,
+        "MergeAffinity": 0.51533854,
+        "CommunicationRadius": 0.07840926,
+        "LightDependency": 0.06041296,
+        "ChemicalAffinity": 0.04272801,
+        "OrganicAffinity": 0.50678676,
+        "PredatoryDrive": 0.7929826,
+        "RegenerationRate": 0.562436,
+        "EnvironmentResistance": 0.30148312,
+        "CellDifferentiation": 0.23662297,
+        "Thermotolerance": 0.5699783,
+        "OptimalTemperature": 0.31978306
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "RAZUM_SPECIES_16",
+      "TotalCellMass": 334,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 104160,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.39,
+        "EpithelialArmor": 0.03,
+        "NervousSystem": 0.12,
+        "LocomotorSystem": 0.22
+      },
+      "OrganismGenome": {
+        "Speed": 0.58138394,
+        "SenseRadius": 0.46124756,
+        "Metabolism": 0.46172607,
+        "DivisionThreshold": 0.60154235,
+        "MutationRate": 0.0903428,
+        "MergeAffinity": 0.44688758,
+        "CommunicationRadius": 0.5829977,
+        "LightDependency": 0.17338602,
+        "ChemicalAffinity": 0.24893345,
+        "OrganicAffinity": 0.36953622,
+        "PredatoryDrive": 0.60180545,
+        "RegenerationRate": 0.52744,
+        "EnvironmentResistance": 0.37116447,
+        "CellDifferentiation": 0.33809224,
+        "Thermotolerance": 0.37586114,
+        "OptimalTemperature": 0.47990447
+      },
+      "EvolutionHistory": {}
+    }
+  ]
+}

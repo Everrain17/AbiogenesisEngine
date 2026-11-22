@@ -1,0 +1,36 @@
+{
+  "Seed": 808481980,
+  "TotalTicks": 20000,
+  "AchievedSpeciesCount": 1,
+  "EvolvedLandSpecies": [
+    {
+      "SpeciesId": "SPECIES_01",
+      "TotalCellMass": 190,
+      "OrganisedModulesCount": 9,
+      "ExitTick": 11140,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.79,
+        "EpithelialArmor": 0,
+        "NervousSystem": 0.01,
+        "LocomotorSystem": 0.15
+      },
+      "OrganismGenome": {
+        "Speed": 0.5067539,
+        "SenseRadius": 0.34442532,
+        "Metabolism": 0.3008386,
+        "DivisionThreshold": 0.727931,
+        "MutationRate": 0.06438495,
+        "MergeAffinity": 0.56779796,
+        "CommunicationRadius": 0.7985862,
+        "LightDependency": 0.61700577,
+        "ChemicalAffinity": 0.59880966,
+        "OrganicAffinity": 0.64102685,
+        "PredatoryDrive": 0.09085206,
+        "RegenerationRate": 0.56525743,
+        "EnvironmentResistance": 0.32136068,
+        "CellDifferentiation": 0.23322417
+      },
+      "EvolutionHistory": {}
+    }
+  ]
+}

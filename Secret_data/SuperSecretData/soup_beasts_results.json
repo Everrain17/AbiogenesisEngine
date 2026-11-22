@@ -1,0 +1,347 @@
+{
+  "LastActiveSeed": 808481980,
+  "TotalBeastsCount": 11,
+  "WildBeasts": [
+    {
+      "SpeciesId": "WILD_BEAST_01",
+      "TotalCellMass": 523,
+      "OrganisedModulesCount": 9,
+      "ExitTick": 3160,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.16,
+        "EpithelialArmor": 0.07,
+        "NervousSystem": 0.05,
+        "LocomotorSystem": 0.15
+      },
+      "OrganismGenome": {
+        "Speed": 0.4372156,
+        "SenseRadius": 0.4757282,
+        "Metabolism": 0.18878515,
+        "DivisionThreshold": 0.4166323,
+        "MutationRate": 0.172357,
+        "MergeAffinity": 0.33048403,
+        "CommunicationRadius": 0.5058569,
+        "LightDependency": 0.46713698,
+        "ChemicalAffinity": 0.15588498,
+        "OrganicAffinity": 0.15486753,
+        "PredatoryDrive": 0.64276165,
+        "RegenerationRate": 0.78716457,
+        "EnvironmentResistance": 0.29657385,
+        "CellDifferentiation": 0.14631183,
+        "Thermotolerance": 0.5895491,
+        "OptimalTemperature": 0.5487089
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_02",
+      "TotalCellMass": 498,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 5120,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.59,
+        "EpithelialArmor": 0,
+        "NervousSystem": 0,
+        "LocomotorSystem": 0.43
+      },
+      "OrganismGenome": {
+        "Speed": 0.59418,
+        "SenseRadius": 0.15278357,
+        "Metabolism": 0.076601006,
+        "DivisionThreshold": 0.41930184,
+        "MutationRate": 0.08870432,
+        "MergeAffinity": 0.8439039,
+        "CommunicationRadius": 0.13753766,
+        "LightDependency": 0.9326398,
+        "ChemicalAffinity": 0.08460452,
+        "OrganicAffinity": 0.58388424,
+        "PredatoryDrive": 0.9133312,
+        "RegenerationRate": 0.56167793,
+        "EnvironmentResistance": 0.3402265,
+        "CellDifferentiation": 0.4555772,
+        "Thermotolerance": 0.9006676,
+        "OptimalTemperature": 0.91147274
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_03",
+      "TotalCellMass": 434,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 41300,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.91,
+        "EpithelialArmor": 0,
+        "NervousSystem": 0.08,
+        "LocomotorSystem": 0.83
+      },
+      "OrganismGenome": {
+        "Speed": 0.6928539,
+        "SenseRadius": 0.43521878,
+        "Metabolism": 0.6199259,
+        "DivisionThreshold": 0.7015075,
+        "MutationRate": 0.14993583,
+        "MergeAffinity": 0.040308293,
+        "CommunicationRadius": 0.24792145,
+        "LightDependency": 0.7131499,
+        "ChemicalAffinity": 0.35660627,
+        "OrganicAffinity": 0.8650999,
+        "PredatoryDrive": 0.7796751,
+        "RegenerationRate": 0.8600737,
+        "EnvironmentResistance": 0.14752644,
+        "CellDifferentiation": 0.10638896,
+        "Thermotolerance": 0.40292916,
+        "OptimalTemperature": 0.3232015
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_04",
+      "TotalCellMass": 520,
+      "OrganisedModulesCount": 9,
+      "ExitTick": 45880,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.09,
+        "EpithelialArmor": 1,
+        "NervousSystem": 0,
+        "LocomotorSystem": 0
+      },
+      "OrganismGenome": {
+        "Speed": 0.08961569,
+        "SenseRadius": 0.33805284,
+        "Metabolism": 0.65264565,
+        "DivisionThreshold": 0.32745486,
+        "MutationRate": 0.024639545,
+        "MergeAffinity": 0.5209157,
+        "CommunicationRadius": 0.8136071,
+        "LightDependency": 0.41615102,
+        "ChemicalAffinity": 0.068150535,
+        "OrganicAffinity": 0.086100645,
+        "PredatoryDrive": 0.7119009,
+        "RegenerationRate": 0.9757713,
+        "EnvironmentResistance": 0.98465306,
+        "CellDifferentiation": 0.21035345,
+        "Thermotolerance": 0.33151206,
+        "OptimalTemperature": 0.39943695
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_05",
+      "TotalCellMass": 550,
+      "OrganisedModulesCount": 9,
+      "ExitTick": 50120,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.09,
+        "EpithelialArmor": 0.84,
+        "NervousSystem": 0.02,
+        "LocomotorSystem": 0.18
+      },
+      "OrganismGenome": {
+        "Speed": 0.56595606,
+        "SenseRadius": 0.16786776,
+        "Metabolism": 0.15558769,
+        "DivisionThreshold": 0.36032262,
+        "MutationRate": 0.07463189,
+        "MergeAffinity": 0.7882628,
+        "CommunicationRadius": 0.66975284,
+        "LightDependency": 0.38101596,
+        "ChemicalAffinity": 0.064066544,
+        "OrganicAffinity": 0.087008476,
+        "PredatoryDrive": 0.9023322,
+        "RegenerationRate": 0.50890154,
+        "EnvironmentResistance": 0.89456725,
+        "CellDifferentiation": 0.31173003,
+        "Thermotolerance": 0.3926709,
+        "OptimalTemperature": 0.5993019
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_06",
+      "TotalCellMass": 376,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 52860,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.11,
+        "EpithelialArmor": 1,
+        "NervousSystem": 0.01,
+        "LocomotorSystem": 0.05
+      },
+      "OrganismGenome": {
+        "Speed": 0.42071843,
+        "SenseRadius": 0.2868462,
+        "Metabolism": 0.5855344,
+        "DivisionThreshold": 0.48399642,
+        "MutationRate": 0.09646485,
+        "MergeAffinity": 0.14106064,
+        "CommunicationRadius": 0.82674384,
+        "LightDependency": 0.19426338,
+        "ChemicalAffinity": 0.07754038,
+        "OrganicAffinity": 0.11467257,
+        "PredatoryDrive": 0.6776397,
+        "RegenerationRate": 0.82332003,
+        "EnvironmentResistance": 0.8724685,
+        "CellDifferentiation": 0.43216348,
+        "Thermotolerance": 0.31811842,
+        "OptimalTemperature": 0.2674514
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_07",
+      "TotalCellMass": 400,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 60220,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.18,
+        "EpithelialArmor": 0.08,
+        "NervousSystem": 0,
+        "LocomotorSystem": 0
+      },
+      "OrganismGenome": {
+        "Speed": 0.42919755,
+        "SenseRadius": 0.12410098,
+        "Metabolism": 0.59052795,
+        "DivisionThreshold": 0.9009921,
+        "MutationRate": 0.0256068,
+        "MergeAffinity": 0.011829765,
+        "CommunicationRadius": 0.55470455,
+        "LightDependency": 0.24239467,
+        "ChemicalAffinity": 0.20655721,
+        "OrganicAffinity": 0.17932262,
+        "PredatoryDrive": 0.8341484,
+        "RegenerationRate": 0.4231996,
+        "EnvironmentResistance": 0.5890783,
+        "CellDifferentiation": 0.07660769,
+        "Thermotolerance": 0.24522166,
+        "OptimalTemperature": 0.5668614
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_08",
+      "TotalCellMass": 464,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 65880,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.36,
+        "EpithelialArmor": 0.75,
+        "NervousSystem": 0,
+        "LocomotorSystem": 0.03
+      },
+      "OrganismGenome": {
+        "Speed": 0.20242174,
+        "SenseRadius": 0.18251067,
+        "Metabolism": 0.3181638,
+        "DivisionThreshold": 0.38571957,
+        "MutationRate": 0.1257612,
+        "MergeAffinity": 0.38052338,
+        "CommunicationRadius": 0.34614366,
+        "LightDependency": 0.06177346,
+        "ChemicalAffinity": 0.17524394,
+        "OrganicAffinity": 0.35531518,
+        "PredatoryDrive": 0.913728,
+        "RegenerationRate": 0.85856473,
+        "EnvironmentResistance": 0.8164508,
+        "CellDifferentiation": 0.12456654,
+        "Thermotolerance": 0.7564074,
+        "OptimalTemperature": 0.65424037
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_09",
+      "TotalCellMass": 446,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 71420,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.62,
+        "EpithelialArmor": 0,
+        "NervousSystem": 0,
+        "LocomotorSystem": 0.74
+      },
+      "OrganismGenome": {
+        "Speed": 0.6255437,
+        "SenseRadius": 0.38378674,
+        "Metabolism": 0.31947666,
+        "DivisionThreshold": 0.5359678,
+        "MutationRate": 0.092491455,
+        "MergeAffinity": 0.5472569,
+        "CommunicationRadius": 0.6765582,
+        "LightDependency": 0.24754745,
+        "ChemicalAffinity": 0.048251607,
+        "OrganicAffinity": 0.61608595,
+        "PredatoryDrive": 0.78717154,
+        "RegenerationRate": 0.5490336,
+        "EnvironmentResistance": 0.3686577,
+        "CellDifferentiation": 0.0966634,
+        "Thermotolerance": 0.36976054,
+        "OptimalTemperature": 0.3358366
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_10",
+      "TotalCellMass": 607,
+      "OrganisedModulesCount": 9,
+      "ExitTick": 78080,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.15,
+        "EpithelialArmor": 0.01,
+        "NervousSystem": 0.09,
+        "LocomotorSystem": 0.21
+      },
+      "OrganismGenome": {
+        "Speed": 0.53740364,
+        "SenseRadius": 0.5347446,
+        "Metabolism": 0.2636392,
+        "DivisionThreshold": 0.4728127,
+        "MutationRate": 0.056007195,
+        "MergeAffinity": 0.6969747,
+        "CommunicationRadius": 0.57978976,
+        "LightDependency": 0.03635431,
+        "ChemicalAffinity": 0.119292736,
+        "OrganicAffinity": 0.15336166,
+        "PredatoryDrive": 0.61593443,
+        "RegenerationRate": 0.32483026,
+        "EnvironmentResistance": 0.43689704,
+        "CellDifferentiation": 0.29230696,
+        "Thermotolerance": 0.25465876,
+        "OptimalTemperature": 0.35119396
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_11",
+      "TotalCellMass": 344,
+      "OrganisedModulesCount": 6,
+      "ExitTick": 106420,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.31,
+        "EpithelialArmor": 0.47,
+        "NervousSystem": 0.01,
+        "LocomotorSystem": 0.53
+      },
+      "OrganismGenome": {
+        "Speed": 0.60714555,
+        "SenseRadius": 0.4334097,
+        "Metabolism": 0.2844596,
+        "DivisionThreshold": 0.46276692,
+        "MutationRate": 0.12542722,
+        "MergeAffinity": 0.06515361,
+        "CommunicationRadius": 0.38127473,
+        "LightDependency": 0.6941379,
+        "ChemicalAffinity": 0.22915003,
+        "OrganicAffinity": 0.31050128,
+        "PredatoryDrive": 0.8660343,
+        "RegenerationRate": 0.7303807,
+        "EnvironmentResistance": 0.7055773,
+        "CellDifferentiation": 0.82240504,
+        "Thermotolerance": 0.14604448,
+        "OptimalTemperature": 0.16910893
+      },
+      "EvolutionHistory": {}
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "LastActiveSeed": 808481980,
+  "TotalBeastsCount": 2,
+  "WildBeasts": [
+    {
+      "SpeciesId": "WILD_BEAST_01",
+      "TotalCellMass": 523,
+      "OrganisedModulesCount": 9,
+      "ExitTick": 3160,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.16,
+        "EpithelialArmor": 0.07,
+        "NervousSystem": 0.05,
+        "LocomotorSystem": 0.15
+      },
+      "OrganismGenome": {
+        "Speed": 0.4372156,
+        "SenseRadius": 0.4757282,
+        "Metabolism": 0.18878515,
+        "DivisionThreshold": 0.4166323,
+        "MutationRate": 0.172357,
+        "MergeAffinity": 0.33048403,
+        "CommunicationRadius": 0.5058569,
+        "LightDependency": 0.46713698,
+        "ChemicalAffinity": 0.15588498,
+        "OrganicAffinity": 0.15486753,
+        "PredatoryDrive": 0.64276165,
+        "RegenerationRate": 0.78716457,
+        "EnvironmentResistance": 0.29657385,
+        "CellDifferentiation": 0.14631183,
+        "Thermotolerance": 0.5895491,
+        "OptimalTemperature": 0.5487089
+      },
+      "EvolutionHistory": {}
+    },
+    {
+      "SpeciesId": "WILD_BEAST_02",
+      "TotalCellMass": 498,
+      "OrganisedModulesCount": 8,
+      "ExitTick": 5120,
+      "AnatomyProfile": {
+        "DigestiveSystem": 0.59,
+        "EpithelialArmor": 0,
+        "NervousSystem": 0,
+        "LocomotorSystem": 0.43
+      },
+      "OrganismGenome": {
+        "Speed": 0.59418,
+        "SenseRadius": 0.15278357,
+        "Metabolism": 0.076601006,
+        "DivisionThreshold": 0.41930184,
+        "MutationRate": 0.08870432,
+        "MergeAffinity": 0.8439039,
+        "CommunicationRadius": 0.13753766,
+        "LightDependency": 0.9326398,
+        "ChemicalAffinity": 0.08460452,
+        "OrganicAffinity": 0.58388424,
+        "PredatoryDrive": 0.9133312,
+        "RegenerationRate": 0.56167793,
+        "EnvironmentResistance": 0.3402265,
+        "CellDifferentiation": 0.4555772,
+        "Thermotolerance": 0.9006676,
+        "OptimalTemperature": 0.91147274
+      },
+      "EvolutionHistory": {}
+    }
+  ]
+}
